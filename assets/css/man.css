@@ -1,0 +1,30 @@
+table{
+    width:100%;
+    border-collapse-collapse:collapse;
+height: 100%;
+}
+th,td{
+    border:2px solid cornflowerblue;
+    padding:20px ;
+    margin: 10px;
+}
+thead{
+    font-family: "Berlin Sans FB Demi"
+    font-size:20px;
+    color: red;
+
+
+}
+body{
+    background-color: aqua;
+}
+h2 {
+    text-align: center;
+    font-size: 38px;
+    color: brown;
+}
+img{
+display: block;
+    width:10px;
+
+}
